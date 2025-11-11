@@ -1,0 +1,7 @@
+// mobile nav + year
+const toggle = document.querySelector('.nav-toggle');
+const links = document.querySelector('.nav-links');
+if(toggle){
+  toggle.addEventListener('click', ()=> links.classList.toggle('open'));
+}
+document.getElementById('year').textContent = new Date().getFullYear();
