@@ -1,23 +1,23 @@
-# Ahmed Alkhawlani — GitHub Pages Portfolio
+# Ahmed Alkhawlani
 
-## Quick Start
-1) Create a new repo on GitHub.
-   - **User site**: name it `Ahmed-Al2025.github.io` (must match your username exactly).
-   - **Project site**: any name (e.g., `portfolio`).
+🎓 **Information Technology & Cybersecurity Student** at Marymount University  
+💻 Passionate about network defense, malware analysis, and data protection.  
+🔒 Focused on privacy-preserving cryptographic systems and real-world cybersecurity projects.
 
-2) Upload files
-   - Click **Add file → Upload files** and drag‑drop everything from this folder (`index.html`, `styles.css`, `script.js`, `assets/`).
+## 🔧 Skills
+- Cybersecurity | Network Security | Malware Analysis  
+- Python | HTML | CSS | JavaScript  
+- AWS | Cisco Tools | Microsoft Suite
 
-3) Enable GitHub Pages
-   - **Settings → Pages** → set **Branch** to `main` (or `master`) and **/ (root)** → **Save**.
-   - After a minute, open your site:
-     - User site: `https://Ahmed-Al2025.github.io/`
-     - Project site: `https://Ahmed-Al2025.github.io/portfolio/`
+## 💼 Projects
+- **Malware Analysis Project** – Static and dynamic malware analysis in a sandboxed environment.  
+- **Software Testing & QA** – Identified bugs and implemented code fixes.  
+- **Capstone Research** – Investigating Secure Multi-Party Computation (SMPC) & Homomorphic Encryption for secure data collaboration.
 
-## Customize
-- Edit `index.html` to change text, projects, or add links.
-- Replace `assets/Resume.pdf` with an updated resume (keep the same filename or update the link).
-- Colors are in `styles.css` (top CSS variables).
+## 📫 Contact
+- 📧 **ahmedalkhawlani73@gmail.com**  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ahmed-alkhawlani-07425524b)  
+- 💻 [GitHub](https://github.com/Ahmed-Al2025)
 
-## Notes
-- No frameworks or builds needed — just static files.
+---
+_This portfolio was built to showcase my cybersecurity projects, leadership, and ongoing work in IT security._
